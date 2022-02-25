@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy on the His Grace John Lord Archbishop of Canterbury. A pindaric</title>
+            <author>Tate, Nahum, 1652-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62899</idno>
+            <idno type="STC">Wing T185</idno>
+            <idno type="STC">ESTC R222176</idno>
+            <idno type="EEBO-CITATION">99833397</idno>
+            <idno type="PROQUEST">99833397</idno>
+            <idno type="VID">37873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37873)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2198:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy on the His Grace John Lord Archbishop of Canterbury. A pindaric</title>
+                  <author>Tate, Nahum, 1652-1715.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed. And are to be sold by John Whitlock near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Nahum Tate.</note>
+                  <note>At foot of title page: Price 3d.</note>
+                  <note>Copy has annotation beside imprint: 29. Nov:; the 5 of the imprint date is obscured by a "4" in Ms.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tillotson, John, 1630-1694 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37873:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:37873:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <pb facs="tcp:37873:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 104 -->
+            <p>AN ELEGY On His GRACE JOHN Lord Archbiſhop OF CANTERBURY. A Pindaric.</p>
+            <p>
+               <hi>LONDON</hi> Printed. And are to be Sold by <hi>John Whitlock</hi> near <hi>Stationers-Hall,</hi> 1695. Price 3 <hi>d.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:37873:3"/>
+            <!-- PDF PAGE 105 -->
+            <pb n="3" facs="tcp:37873:3"/>
+            <!-- PDF PAGE 105 -->
+            <head>AN ELEGY On His Grace <hi>JOHN</hi> Lord Archbiſhop of <hi>Canterbury.</hi>
+            </head>
+            <lg n="1">
+               <head>I.</head>
+               <l>WHEN, from a Shapeleſs Lump of humble Clay,</l>
+               <l>The great Original of Humane Race,</l>
+               <l>Deſign'd the Empire of the World to Sway,</l>
+               <l>And Subſtituted in his Maker's place;</l>
+               <l>Was, by th'Almighty Operator's Hand,</l>
+               <l>To juſt Proportion brought,</l>
+               <l>While raviſh'd Angels that did round him ſtand,</l>
+               <l>Admir'd the curious Work Omnipotence had wrought;</l>
+               <l>How ev'ry Limb, and ev'ry Joynt</l>
+               <l>Which his Eternal Wiſdom did produce,</l>
+               <l>He did to ſome peculiar Work appoint,</l>
+               <l>And fitted each to ſerve its proper uſe:</l>
+               <l>If here the God had giv'n his Labor o'er,</l>
+               <l>Pleas'd his chief Influ'ence to with-hold,</l>
+               <l>And not vouchſaf'd by an enliv'ning Pow'r</l>
+               <l>To animate the well-compacted Mold;</l>
+               <l>How vain had been his Pains and Art?</l>
+               <l>How inſignificant the Symmetry,</l>
+               <l>The juſt Adaption of each Part?</l>
+               <l>Since all, alas! wou'd uſeleſs be,</l>
+               <l>Becauſe he did not their Perfection give,</l>
+               <l>The means their Operation to Exert,</l>
+               <l>And by his pow'rful Word make the rare Figure Live.</l>
+            </lg>
+            <pb n="4" facs="tcp:37873:4"/>
+            <!-- PDF PAGE 106 -->
+            <lg n="2">
+               <head>II.</head>
+               <l>Nor wou'd that Life avail, if only lent</l>
+               <l>To actuate a while the Earthly Tenement;</l>
+               <l>If, when its ſtinted days are Spent,</l>
+               <l>And its ſhort Leaſe expires,</l>
+               <l>The Body that complain'd for want of room,</l>
+               <l>Tho' bounded only with the World's extent,</l>
+               <l>As ſoon as its Inhabitant retires,</l>
+               <l>Muſt be confin'd within a narrow Tomb,</l>
+               <l>Or crowded in a ſtraiter Urn,</l>
+               <l>While what was made of Duſt, does there to Duſt return;</l>
+               <l>And in this Revolution, lies</l>
+               <l>Depriv'd of Hope, as well as Pow'r, to riſe,</l>
+               <l>Nor more its Being there ſhall boaſt,</l>
+               <l>Its Being in Annihilation loſt:</l>
+               <l>Since the Endowments moſt deſir'd,</l>
+               <l>The copious Learning, and the ready Parts,</l>
+               <l>The pregnant Wit, and cultivating Arts,</l>
+               <l>By Nature giv'n, or Induſtry acquir'd;</l>
+               <l>Cannot oppoſe Mortality,</l>
+               <l>Nor raiſe our Humane <hi>Babel</hi> high;</l>
+               <l>The Builders with the Structure fall,</l>
+               <l>And ſtrange Confuſion ſeiſes All,</l>
+               <l>While equally the Wiſe and Fooliſh die,</l>
+               <l>And in the gen'ral Ruin Undiſtinguiſh'd lie.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Too Sad an Inſtance of this Fading State,</l>
+               <l>Death in one daring Stroke has giv'n,</l>
+               <l>Since He, who was of Nature's Store poſſeſs'd,</l>
+               <l>And from Arts nobleſt Wardrobe richly dreſs'd,</l>
+               <l>Alike rever'd on Eearth, and dear to Heav'n,</l>
+               <l>Cou'd not withſtand the fierce Attack of Fate;</l>
+               <l>Since CANTERBURY, whoſe Surviving Name</l>
+               <l>Will give an Immortality to Fame,</l>
+               <pb n="5" facs="tcp:37873:4"/>
+               <!-- PDF PAGE 106 -->
+               <l>The Great, the Good, the Juſt,</l>
+               <l>The Grave, the Learn'd, the Pious and the Wiſe,</l>
+               <l>Inſenſible of his Spoil'd Honours lies,</l>
+               <l>Not to be known from common Duſt</l>
+               <l>Till from their level Graves the Summon'd Dead ariſe:</l>
+               <l>When they, whoſe Holy, Blameleſs Lives on Earth</l>
+               <l>Prov'd their Original Divine,</l>
+               <l>Before the Great Tribunal ſhall appear;</l>
+               <l>Diſtinguiſh'd from the Vulgar there</l>
+               <l>By an Illuſtrious Character;</l>
+               <l>Shall claim the Privileges of their Birth,</l>
+               <l>And rais'd to a conſpicuous height,</l>
+               <l>Shall in their Father's Starry Manſion Shine,</l>
+               <l>And add new Splendor to the Realms of Light.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>There, while the Atheiſt, whoſe ungrateful Breath</l>
+               <l>Deny'd the Pow'r by whom it firſt was giv'n,</l>
+               <l>And ſpent it ſelf in ridiculing Heav'n,</l>
+               <l>The Joys above, and Miſeries beneath;</l>
+               <l>The Wretch who did his Reaſon miſimploy,</l>
+               <l>(Reaſon, by which alone he was prefer'd</l>
+               <l>Before the Brutal Herd;</l>
+               <l>Reaſon, that rais'd him to a lofty State</l>
+               <l>Above the other Works his Maker did Create;</l>
+               <l>Reaſon, not giv'n him vilely to abuſe,</l>
+               <l>But for a Guide to everlaſting Bliſs,</l>
+               <l>And inconceiveable Felicities;)</l>
+               <l>Converted to an Impious uſe,</l>
+               <l>Its Author's Glory to deſtroy</l>
+               <l>And make him meaner to his Creatures ſeem,</l>
+               <l>Than the moſt Abject of them all to him,</l>
+               <l>As well as to exclude himſelf from Joy;</l>
+               <l>Is from the Beatifick Viſion driv'n,</l>
+               <l>And from the Glory, which he did deſpiſe,</l>
+               <l>Condemn'd to the Abyſs of Hell,</l>
+               <l>Amidſt the Flames he durſt deride to dwell;</l>
+               <pb n="6" facs="tcp:37873:5"/>
+               <!-- PDF PAGE 107 -->
+               <l>Heav'n ſhall reward our Pious Prelate's Zeal</l>
+               <l>With that Eternal State above</l>
+               <l>Which his Immortal Labours amply prove.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>While he who dares the great Three-One deny,</l>
+               <l>And Scorns their Tripple Unity</l>
+               <l>Condemn'd by the Divine Incarnate Word,</l>
+               <l>Shall Periſh by his two-edg'd Flaming Sword;</l>
+               <l>This Glorious Champion for his Saviour's Cauſe,</l>
+               <l>Shall be receiv'd above with juſt Applauſe,</l>
+               <l>To triumph in the Joy and Glory of his Lord.</l>
+               <l>Invited to the Father's Throne</l>
+               <l>By the Coequal, Coeternal Son,</l>
+               <l>And by the Spirit with new Ardor fir'd,</l>
+               <l>That Holy Spirit who his Zeal inſpir'd,</l>
+               <l>With moſt profound Devotion,</l>
+               <l>Such as on Earth he paid before,</l>
+               <l>And ſcarce in Heav'n can offer more,</l>
+               <l>He ſhall Three Perſons in One God adore,</l>
+               <l>And there, delighted ſtill to Love and Pray,</l>
+               <l>In <hi>Allelujahs</hi> ſpend the everlaſting Day.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>While Sinners, who in Impious Works deny</l>
+               <l>The God whom they in fruitleſs Words confeſs,</l>
+               <l>And in ſuch known Offences Live,</l>
+               <l>And unrepenting Dye,</l>
+               <l>As if they did not, what they own, believe,</l>
+               <l>Or thought the Pow'r, whoſe Sanctions they tranſgreſs,</l>
+               <l>Wou'd with their Crimes againſt himſelf comply,</l>
+               <l>Deceiv'd by their Hypocriſie;</l>
+               <l>Perceive there is no Virtue in Pretence,</l>
+               <l>No Sly impoſing on Omniſcience,</l>
+               <l>And find the guilded Title of a Saint,</l>
+               <l>That only does the Out-ſide paint,</l>
+               <l>Too light to hide the Loathſom Sin,</l>
+               <l>The nauſeous Rottenneſs within;</l>
+               <pb n="7" facs="tcp:37873:5"/>
+               <!-- PDF PAGE 107 -->
+               <l>This Righteous Man, this Friend of God indeed,</l>
+               <l>Who practis'd more than others boaſt,</l>
+               <l>And, thro' a Senſe of Duty, did exceed</l>
+               <l>The Good, to which Vain Glory urg'd them moſt;</l>
+               <l>By Heaven's diſcerning Judge ſhall be preferr'd,</l>
+               <l>Whoſe Eyes do ſecret Piety regard,</l>
+               <l>Who thinks they moſt his Care deſerve,</l>
+               <l>Who not for mercenary Reaſons ſerve,</l>
+               <l>And beſt may claim, who leaſt deſign Reward.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>While the Adorers of <hi>Rome</hi>'s monſtrous Beaſt,</l>
+               <l>Such as was ne'er admitted to the Ark,</l>
+               <l>Too Sacred for ſo foul a Gueſt,</l>
+               <l>Are branded with its Ignominious Mark;</l>
+               <l>And by their Vain Traditions are miſled,</l>
+               <l>(Traditions, more by them prefer'd</l>
+               <l>Than mighty Truths in Holy Writdeclard,)</l>
+               <l>To boaſt an univerſal Head;</l>
+               <l>While they perceive themſelves aſtray,</l>
+               <l>In the deſtructive eaſy Way,</l>
+               <l>And find neglected Heaven deride</l>
+               <l>Their vain Pretence of an unerring Guide;</l>
+               <l>While they amidſt their Terror and their Pain,</l>
+               <l>Call on their helpleſs Saints in vain,</l>
+               <l>And no Relief from Merits, or Indulgences obtain:</l>
+               <l>He, who againſt thoſe Errors did diſpute,</l>
+               <l>And them, and their Defenders too, confute;</l>
+               <l>Sav'd by the Virtue of that precious Blood,</l>
+               <l>On which alone his Hope reli'd,</l>
+               <l>The Power of which redeeming Flood</l>
+               <l>To his Eſtatick Soul appli'd,</l>
+               <l>Shall fit it with Seraphick Love,</l>
+               <l>While with God's ſpotleſs Lamb he lives above;</l>
+               <l>The Lamb that once below for Man's Salvation died.</l>
+            </lg>
+            <pb n="8" facs="tcp:37873:6"/>
+            <!-- PDF PAGE 108 -->
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Our happy Church, while by this Pilot ſteer'd,</l>
+               <l>No dangerous Rocks or Quick Sands fear'd,</l>
+               <l>Judgment and Learning did direct this Way;</l>
+               <l>No Storms againſt him cou'd prevail,</l>
+               <l>While he by theſe unerring Stars did ſail,</l>
+               <l>And Piety, his faithful Cart,</l>
+               <l>Whoſe Dictates were imprinted in his Heart,</l>
+               <l>Wou'd never let him looſely ſtray,</l>
+               <l>But, mauger meeting Tydes impetuous Force,</l>
+               <l>Still kept him ſteddy in his happy Courſe.</l>
+               <l>Nor leſs ſucceſsful was his Care</l>
+               <l>In managing the Steerage of the State.</l>
+               <l>While at the Helm thereof he ſate,</l>
+               <l>Call'd by it's Prince for his Aſſiſtance there,</l>
+               <l>Where none more uſeful prov'd, nor was more juſtly dear.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>But Heaven, which faithfully he ſerv'd,</l>
+               <l>And where, alone, he laboured to be great,</l>
+               <l>Exalts him now to a ſublimer seat,</l>
+               <l>In Manſions for its Favorites reſerved;</l>
+               <l>Where, plac'd in the Celeſtial Hierarchy,</l>
+               <l>He does his happy Time employ</l>
+               <l>In Hymns of loudeſt Gratitude and Joy,</l>
+               <l>And raiſes there his elevated Voice,</l>
+               <l>Which often grac'd the Pulpit here,</l>
+               <l>And with angelick Harmony</l>
+               <l>Delighting each attentive Ear,</l>
+               <l>Made Crowds, of Men below, and Saints above rejoyce,</l>
+               <l>But ſilent as the Grave in which he lies,</l>
+               <l>He who revealed Heaven's Myſteries,</l>
+               <l>And did Truth's ſacred Oracles declare,</l>
+               <l>Withdrawn from our lamenting Eyes,</l>
+               <l>Informs the wretched World no more,</l>
+               <l>The World that in his Fall does its own Loſs deplore.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37873:6"/>
+            <!-- PDF PAGE 108 -->
+         </div>
+      </body>
+   </text>
+</TEI>
